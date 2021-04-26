@@ -1,7 +1,9 @@
 #Fortune Teller
+
 This is my version of the mixed message project. This program will guess and output your fortune and how log it will take to get there.
 
 ##Technologies
+
 This project is using Javascript and to run it you can use node.js
 
 ## Setup
